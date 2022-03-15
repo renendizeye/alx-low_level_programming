@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - program thta prints all possible combinations of 
+ * main - program thta prints all possible combinations of
  * two two-digit
  * The numbers should range from 0 to 99
  * Numbers must be separated by, foloowed by a space
